@@ -10,3 +10,5 @@
 `storyboard`实现可以参考别人家的博客：[如何创建一个非常酷的3D效果菜单](http://www.jianshu.com/p/a7f5cab17395)
 
 完成效果如下图：
+
+![]()https://github.com/karenkaren/3D-Menu/raw/master/GIF/3D.gif
